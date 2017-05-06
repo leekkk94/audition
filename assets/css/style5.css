@@ -1,0 +1,122 @@
+a {
+ color: #E48400;
+}
+a:focus,
+a:hover {
+    color: #E48400;
+}.progress-bar {
+	background-color: #E48400;
+}
+.loader {
+  box-shadow: 0 0 0 6.66667px #E48400;
+}
+.loader:before {
+  background-color: #E48400;
+}
+
+.topcontrol {
+    background: #E48400;
+}
+.hexin-menu li a:hover {
+    color: #E48400!important
+}
+.hexin-menu li a span:before,.hexin-menu li a span:after {
+    background-color: #E48400;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+	color: #E48400 !important;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #E48400;
+}
+
+.dropdown-menu li > a:hover,.dropdown-menu > li > a:focus {background-color: #E48400;}
+.navbar-nav .dropdown-menu li > a.active {
+	color: #E48400 !important;
+}
+#home-slider-carousel .carousel-indicators .active {
+	border-color: #E48400;
+}
+#home-slider-carousel .carousel-indicators .active {
+	background-color: #E48400;
+    border-color: #E48400;
+}
+.btn-home-slider{
+    background: #E48400;
+	border: 2px solid #E48400;
+}
+.single-feature .single-feature-icon i {
+	background: #E48400;
+}
+.single-feature .single-feature-text::before {
+	background: #E48400;
+
+}
+.portfolio-menu ul li.active span {
+    color: #E48400;
+} 
+.portfolio-menu ul li span:before,.portfolio-menu ul li span:after {
+    background-color: #E48400;
+}
+.portfolio-view a:hover,.portfolio-link a:hover {background-color: #E48400; border-color: #E48400;}
+.testimonial-slider.owl-theme .owl-controls .owl-page.active span {
+    background-color: #E48400;
+    border-color: #E48400;
+}
+
+.single-award .single-award-icon i {
+	background: #E48400;
+}
+.single-award .single-award-text::before {
+	background: #E48400;
+
+}
+.hexin-skill .skill .progress .progress-bar span {
+  border: 4px solid #E48400 !important;
+}
+.single-counter:hover i {
+    color: #E48400;
+}
+.single-blog:hover .btn-blog-bg {
+    background-color: #E48400;
+}
+.single-blog:hover .blog-text h4 {color: #E48400;}
+.twitter-icon i {
+	color: #E48400;
+}
+		
+.twitter-btn {
+    background: #E48400;
+	border: 2px solid #E48400;
+}
+.single-team-social a:hover {
+    color: #E48400;
+}
+.form-control:focus {
+    border: 1px solid #E48400;
+}
+.btn-contact-bg {
+    background: #E48400 none repeat scroll 0 0;
+}
+.single-address:hover .single-address-icon i {
+    background: #E48400;
+}
+.copyright a {
+    color: #E48400;
+}
+.widget-tittle span {
+	background: #E48400 none repeat scroll 0 0;
+}
+.widget-list a:hover{
+	color: #E48400;
+}
+.tag-widget a:hover {
+    background: #E48400;
+    border-color: #E48400;
+}
+.tag-widget .badge {
+    background: #E48400;
+}
+.pagination > li > a, .pagination > li > span {
+	color: #E48400;
+}

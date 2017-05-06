@@ -1,0 +1,16 @@
+.hexin-menu.sticky-menu {
+	background-color: #333;
+	border-color: #333;
+}
+.hexin-menu.sticky-menu li a, .hexin-menu.sticky-menu li a:hover {
+	color: #fff !important;
+}
+.dropdown-menu {
+	background-color: #333;
+}
+.dropdown-menu li:not(:last-child) > a {
+	border-bottom: 1px solid #555;
+}
+.dropdown-menu li > a {
+	color: #fff;
+}

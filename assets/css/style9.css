@@ -1,0 +1,122 @@
+a {
+ color: #FF4C83;
+}
+a:focus,
+a:hover {
+    color: #FF4C83;
+}.progress-bar {
+	background-color: #FF4C83;
+}
+.loader {
+  box-shadow: 0 0 0 6.66667px #FF4C83;
+}
+.loader:before {
+  background-color: #FF4C83;
+}
+
+.topcontrol {
+    background: #FF4C83;
+}
+.hexin-menu li a:hover {
+    color: #FF4C83!important;
+}
+.hexin-menu li a span:before,.hexin-menu li a span:after {
+    background-color: #FF4C83;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+	color: #FF4C83 !important;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #FF4C83;
+}
+
+.dropdown-menu li > a:hover,.dropdown-menu > li > a:focus {background-color: #FF4C83;}
+.navbar-nav .dropdown-menu li > a.active {
+	color: #FF4C83 !important;
+}
+#home-slider-carousel .carousel-indicators .active {
+	border-color: #FF4C83;
+}
+#home-slider-carousel .carousel-indicators .active {
+	background-color: #FF4C83;
+    border-color: #FF4C83;
+}
+.btn-home-slider{
+    background: #FF4C83;
+	border: 2px solid #FF4C83;
+}
+.single-feature .single-feature-icon i {
+	background: #FF4C83;
+}
+.single-feature .single-feature-text::before {
+	background: #FF4C83;
+
+}
+.portfolio-menu ul li.active span {
+    color: #FF4C83;
+}
+.portfolio-menu ul li span:before,.portfolio-menu ul li span:after {
+    background-color: #FF4C83;
+}
+.portfolio-view a:hover,.portfolio-link a:hover {background-color: #FF4C83; border-color: #FF4C83;}
+.testimonial-slider.owl-theme .owl-controls .owl-page.active span {
+    background-color: #FF4C83;
+    border-color: #FF4C83;
+}
+
+.single-award .single-award-icon i {
+	background: #FF4C83;
+}
+.single-award .single-award-text::before {
+	background: #FF4C83;
+
+}
+.hexin-skill .skill .progress .progress-bar span {
+  border: 4px solid #FF4C83 !important;
+}
+.single-counter:hover i {
+    color: #FF4C83;
+}
+.single-blog:hover .btn-blog-bg {
+    background-color: #FF4C83;
+}
+.single-blog:hover .blog-text h4 {color: #FF4C83;}
+.twitter-icon i {
+	color: #FF4C83;
+}
+
+.twitter-btn {
+    background: #FF4C83;
+	border: 2px solid #FF4C83;
+}
+.single-team-social a:hover {
+    color: #FF4C83;
+}
+.form-control:focus {
+    border: 1px solid #FF4C83;
+}
+.btn-contact-bg {
+    background: #FF4C83 none repeat scroll 0 0;
+}
+.single-address:hover .single-address-icon i {
+    background: #FF4C83;
+}
+.copyright a {
+    color: #FF4C83;
+}
+.widget-tittle span {
+	background: #FF4C83 none repeat scroll 0 0;
+}
+.widget-list a:hover{
+	color: #FF4C83;
+}
+.tag-widget a:hover {
+    background: #FF4C83;
+    border-color: #FF4C83;
+}
+.tag-widget .badge {
+    background: #FF4C83;
+}
+.pagination > li > a, .pagination > li > span {
+	color: #FF4C83;
+}
